@@ -1,1 +1,1 @@
-# SBWT-Project
+# Mini-Project
